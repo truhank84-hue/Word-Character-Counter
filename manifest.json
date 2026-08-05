@@ -1,7 +1,9 @@
 {
   "name": "QR Master Pro",
   "short_name": "QR Master",
+  "description": "Generate QR codes instantly from URLs or text. Download high-quality QR codes as PNG images.",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#1f2937",
   "theme_color": "#2563eb",
